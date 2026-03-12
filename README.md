@@ -9,7 +9,7 @@ Such techniques are commmonly used in:
 - Algorithm valdiation
 - Automated testing
 - Data structure experiments
-  Here I'm focused on **constructing lists of natural numbers and verifying constrains or properties applied to them. **
+  Here I'm focused on **constructing lists of natural numbers and verifying constrains or properties applied to them.**
 ---
 
 ## Main Purpose
