@@ -9,8 +9,7 @@ Such techniques are commmonly used in:
 - Algorithm valdiation
 - Automated testing
 - Data structure experiments
-
-Here I'm focused on **constructing lists of natural numbers and verifying constrains or properties applied to them. **
+  Here I'm focused on **constructing lists of natural numbers and verifying constrains or properties applied to them. **
 ---
 
 ## Main Purpose
@@ -18,8 +17,7 @@ Here I'm focused on **constructing lists of natural numbers and verifying constr
 - Apply verification checks to ensure correctness.
 - Provide controlled inputs for algorithm testing.
 - Support validation experiments where correctness of operations must be verified.
-
-This type of system is useful when developing or evaluating algorithms that rely on numeric sequences or list-based structures.
+  This type of system is useful when developing or evaluating algorithms that rely on numeric sequences or list-based structures.
 ---
 ## Key Concepts
 The project relies on several fundamental computer science concepts:
@@ -36,8 +34,7 @@ List are ordered collecitons of elements where:
 - Elements maintain a specific order
 - Elements can be accessed sequentially
 - List can be dynamically constructed and valided
-
-In this project, lists store natural numbers that are generated for testing scenarios.
+  In this project, lists store natural numbers that are generated for testing scenarios.
 ---
 ### Verification
 Verification refers to the process of ensuring thath a system behaves correctly according to defined rules or properties.
