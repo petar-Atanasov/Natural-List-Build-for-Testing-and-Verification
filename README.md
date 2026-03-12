@@ -19,7 +19,7 @@ Such techniques are commmonly used in:
 - Provide controlled inputs for algorithm testing.
 - Support validation experiments where correctness of operations must be verified.
 
-This type of system is useful when developing or evaluating algorithms that rely on numeric sequences or list-based structures.
+#### This type of system is useful when developing or evaluating algorithms that rely on numeric sequences or list-based structures.
 ---
 ## Key Concepts
 The project relies on several fundamental computer science concepts:
@@ -29,7 +29,7 @@ Natural numbers are non-negative integers:
 ```
 0, 1, 2, 3, 4, 5, ....
 ```
-They are commponly used in algorithm testing bacause they provide a simple and deterministic input domain.
+#### They are commponly used in algorithm testing bacause they provide a simple and deterministic input domain.
 ---
 ### List Data Structures
 List are ordered collecitons of elements where:
@@ -37,7 +37,7 @@ List are ordered collecitons of elements where:
 - Elements can be accessed sequentially
 - List can be dynamically constructed and valided
 
-In this project, lists store natural numbers that are generated for testing scenarios.
+#### In this project, lists store natural numbers that are generated for testing scenarios.
 ---
 ### Verification
 Verification refers to the process of ensuring thath a system behaves correctly according to defined rules or properties.
@@ -47,7 +47,7 @@ In this project, verification can include checks such as:
 - Validating structural constraints
 - Ensuring lists satisfy expected conditions
 
-Verification helps detect errors early and ensures reliability. 
+#### Verification helps detect errors early and ensures reliability. 
 ---
 ## System Architecure
 The project follows a simple logical pipeline.
@@ -62,7 +62,7 @@ Verification / Validaiton
       ↓
 Output result
 ```
-Each stage contributes to generating and validating data structures used for testing. 
+#### Each stage contributes to generating and validating data structures used for testing. 
 ---
 ## Main Functionalities
 ### Natural Number List Generation
@@ -106,13 +106,13 @@ Verification result:
 Valid list
 ```
 ---
-##Tools & Environment:
+## Tools & Environment:
 - Java 11+
 - Eclipse IDE:
- --  All development and testing must be done in Eclipse.
+  - All development and testing must be done in Eclipse.
 - Cofoja:
- -- Used for contract enforcement via annotations.
+  - Used for contract enforcement via annotations.
 - JUnit:
---  For writing and running tests.
+  - For writing and running tests.
 
 
