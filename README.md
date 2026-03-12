@@ -29,7 +29,7 @@ Natural numbers are non-negative integers:
 ```
 0, 1, 2, 3, 4, 5, ....
 ```
-They a re commponly used in algorithm testing bacauise they provide a simple and deterministic input domain.
+They are commponly used in algorithm testing bacause they provide a simple and deterministic input domain.
 ---
 ### List Data Structures
 List are ordered collecitons of elements where:
